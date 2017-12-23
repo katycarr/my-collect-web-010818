@@ -5,4 +5,5 @@ def my_collect(array)
     array[i]
     i += 1
   end
+  array
 end
